@@ -1,5 +1,5 @@
 
-This documentation describes how to use the Stover automated brain brush!
+This documentation describes how to use the Stover automated brain brush to scrub your gray matter!
 
 Note that this brain brush is totally safe to use for children, adults, pets, radishes, and beach balls!!
 
